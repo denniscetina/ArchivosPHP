@@ -1,5 +1,5 @@
 <?php
-$hostname="ps-mysqldb.cqarvpef8c0c.us-east-1.rds.amazonaws.com";
+$hostname="ps-prod-mysql.cqarvpef8c0c.us-east-1.rds.amazonaws.com";
 $database="discere_db-dev";
 $username="discereUsr";
 $password="!!Discere123";
