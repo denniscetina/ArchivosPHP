@@ -1,5 +1,5 @@
 <?php
-
+//Edicion
   $host_name = 'ps-prod-mysql.cqarvpef8c0c.us-east-1.rds.amazonaws.com';
   $database = 'discere_db-dev';
   $user_name = 'discereUsr';
