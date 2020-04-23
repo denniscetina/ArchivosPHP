@@ -1,8 +1,8 @@
 <?php
-$hostname="db793449398.hosting-data.io";
-$database="db793449398";
-$username="dbo793449398";
-$password="Cbtis_72";
+$hostname="ps-prod-mysql.cqarvpef8c0c.us-east-1.rds.amazonaws.com";
+$database="discere_db-dev";
+$username="discereUsr";
+$password="!!Discere123";
 
 $conexion=new mysqli($hostname,$username,$password,$database);
 if($conexion  ->connect_errno){
