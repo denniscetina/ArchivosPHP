@@ -1,6 +1,7 @@
 <?php
 
 //NO TOCAR ES IMPORTANTE
+//Modificado nuevo host ps-mysqldb.cobhumpfxcij.us-east-1.rds.amazonaws.com
 $DBhost = "ps-mysqldb.cobhumpfxcij.us-east-1.rds.amazonaws.com";
 $DBuser = "discereUsr";
 $DBpass = "!!Discere123";
