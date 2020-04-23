@@ -1,5 +1,6 @@
 <?php
-//Edicion
+//Edicio
+//verificado nuevo host ps-mysqldb.cobhumpfxcij.us-east-1.rds.amazonaws.com
   $host_name = 'ps-mysqldb.cobhumpfxcij.us-east-1.rds.amazonaws.com';
   $database = 'discere_db-dev';
   $user_name = 'discereUsr';
