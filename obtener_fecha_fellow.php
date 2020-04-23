@@ -1,5 +1,5 @@
 <?php
-
+//Editado nuevo host ps-mysqldb.cobhumpfxcij.us-east-1.rds.amazonaws.com
 //NO TOCAR ES IMPORTANTE
 $DBhost = "ps-mysqldb.cobhumpfxcij.us-east-1.rds.amazonaws.com";
 $DBuser = "discereUsr";
