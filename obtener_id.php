@@ -1,10 +1,10 @@
 <?php
 
 //NO TOCAR ES IMPORTANTE
-$DBhost = "db793449398.hosting-data.io";
- $DBuser = "dbo793449398";
- $DBpass = "Cbtis_72";
- $DBname = "db793449398";
+$DBhost = "ps-mysqldb.cobhumpfxcij.us-east-1.rds.amazonaws.com";
+ $DBuser = "discereUsr";
+ $DBpass = "!!Discere123";
+ $DBname = "discere_db-dev";
  $nombre = $_REQUEST['correo']; //Obtengo el parametro.
 
 
