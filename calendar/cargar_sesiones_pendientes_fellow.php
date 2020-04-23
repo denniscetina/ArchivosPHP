@@ -1,7 +1,7 @@
 <?php
 //Carga las sesiones pendientes fellow
 
-$DBhost = "ps-mysqldb.cqarvpef8c0c.us-east-1.rds.amazonaws.com";
+$DBhost = "ps-mysqldb.cobhumpfxcij.us-east-1.rds.amazonaws.com";
 $DBuser = "discereUsr";
 $DBpass = "!!Discere123";
 $DBname = "discere_db-dev";
